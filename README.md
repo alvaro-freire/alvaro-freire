@@ -1,4 +1,4 @@
-# Hi there 👋, it's Álvaro! 🤪
+# Hi there, it's Álvaro! 👋
 
 Welcome to my GitHub profile! I am a software developer based in [A Coruña, Galicia](https://goo.gl/maps/toE6B6P5XvtDYGkNA). Here are some interesting things about me!
 
