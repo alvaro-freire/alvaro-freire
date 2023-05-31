@@ -16,7 +16,7 @@ Here is a list of some of my skills:
 
 - Mobile app dev 📱 - Flutter.
 - Web app dev 🌐 - Next.js.
-- Teaching - Python 🐍.
+- Backend dev - Python 🐍.
 - Of course - Git 🤣.
 
 ## 📫 Contact me
