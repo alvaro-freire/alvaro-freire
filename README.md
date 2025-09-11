@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a software developer based in [A Coruña, Gal
 
 - Currently 23 y/o 🧍‍♂️.
 - Studied Computer Engineering - Information Technologies at [Universidade da Coruña](https://www.udc.es/) 🏫.
-- Software Engineer and Project Manager at [Innogando](https://innogando.com) 🐮.
+- Software Engineer and Process Automation Dev at [Innogando](https://innogando.com) 🐮.
 - Love traveling around the world 🌍.
 - Always enthusiastic about meeting new people. You never know who can inspire you 💭 or make an impact 💡 in your life!
 
