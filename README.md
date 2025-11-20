@@ -5,8 +5,9 @@ Welcome to my GitHub profile! I am a software developer based in [A Coruña, Gal
 ## 🧐 About me
 
 - Currently 23 y/o 🧍‍♂️.
-- Studied Computer Engineering - Information Technologies at [Universidade da Coruña](https://www.udc.es/) 🏫.
-- Software Engineer and Process Automation Dev at [Innogando](https://innogando.com) 🐮.
+- Studied Computer Engineering - Information Technologies @ [Universidade da Coruña](https://www.udc.es/) 🏫.
+- Software and DevOps Engineer @ [Innogando](https://innogando.com) 🐮.
+- Organizing [hackathons](https://hackudc.gpul.org) @ [GPUL](https://github.com/gpul-org).
 - Love traveling around the world 🌍.
 - Always enthusiastic about meeting new people. You never know who can inspire you 💭 or make an impact 💡 in your life!
 
@@ -16,7 +17,8 @@ Here is a list of some of my skills:
 
 - Mobile app dev 📱 - Flutter.
 - Web app dev 🌐 - Next.js.
-- Backend dev - Python 🐍.
+- Backend dev - FastAPI 🐍.
+- DevOps - K8s ☸️.
 - Of course - Git 🤣.
 
 ## 📫 Contact me
