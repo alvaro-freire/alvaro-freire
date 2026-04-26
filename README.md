@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a software engineer based in [A Coruña, Galic
 - Currently 24 y/o 🧍‍♂️
 - Studied Computer Engineering @ [Universidade da Coruña](https://www.udc.es/) 🏫 (2020—2024)
 - **Co-founder** @ [Trazea](https://trazea.es) 🍽️ — digitizing food traceability for hospitality businesses
-- **Engineer** @ [Innogando](https://innogando.com) 🐮 — IoT/agrotech startup (RUMI GPS collars for livestock)
+- **Head of Software Engineering** @ [Innogando](https://innogando.com) 🐮 — IoT/agrotech startup (RUMI GPS collars for livestock)
 - **Hackathon Organizer** @ [HackUDC](https://hackudc.gpul.org) with [GPUL](https://github.com/gpul-org) 🚀
 - Love traveling and always enthusiastic about meeting new people 🌍
 
